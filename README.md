@@ -31,6 +31,6 @@
 |[Servo+TM1637+Potentiometer](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%204/servo%20motor%20%2B%20potentiometer%2B(TM1637)%20screen12.py)|52|   الكود البرمجي الخاص بالتمرين  |يجب إضافة مكتبة tm1637 التي قمنا بإضافتها بالتمرين السابق| 12 |
 |[LCD I2C](https://wokwi.com/projects/374927791194166273)|54|  محاكاة عمل الشاشة في وكوي |-| 13 |
 |[LCD_API](https://raw.githubusercontent.com/dhylands/python_lcd/master/lcd/lcd_api.py)|54|   LCD_APIمكتبة  |-|  13   |
-|[I2C LCD](https://raw.githubusercontent.com/T-622/RPI-PICO-I2C-LCD/main/pico_i2c_lcd.py)|54|  I2C LCD مكتبة  |-|     |
+|[I2C LCD](https://raw.githubusercontent.com/T-622/RPI-PICO-I2C-LCD/main/pico_i2c_lcd.py)|54|  I2C LCD مكتبة  |-|  13   |
 
 
