@@ -20,3 +20,4 @@
 |[Buzzer](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%202/Make%20a%20musical%20note%20sound6.py)|35|  الكود البرمجي لإصدار نغمة موسيقية باستخدام البازر|-| 6 |
 |[Servo](https://wokwi.com/projects/385000221695302657)|37|  محاكاة التحكم بسرعة واتجاه دوران محرك سيرفو ر في وكوي|-| 7 |
 |[Servo.py](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%202/Servo%20motor%20control%20using%20Pi%20Pico%20W%207.py)|37|  مكتبة سيرفو للتحكم بمحرك السيرفو ووظائفه|-| 7 |
+|[Servo.main](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%202/servo%20main7.py)|37|  الكود البرمجي للتحكم بمحرك السيرفو |-| 7 |
