@@ -29,6 +29,6 @@
 |[Seven Segment-TM1637](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%203/Timer%20(control%20of%20start%20and%20stop%20time)11.py)|50|  الكود البرمجي للتحكم في بدء وإيقاف عداد الوقت |-| 11 |
 |[Servo+TM1637+Potentiometer](https://wokwi.com/projects/385001739811139585)|52|  محاكاة قراءة قيمة المستشعر وتحويلها إلى قيمة بحيث يمكن استخدامها من خلال المقاومة المتغيرة لتحريك المحرك في وكوي |-| 12 |
 |[Servo+TM1637+Potentiometer](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%204/servo%20motor%20%2B%20potentiometer%2B(TM1637)%20screen12.py)|52|   الكود البرمجي الخاص بالتمرين  |يجب إضافة مكتبة tm1637 التي قمنا بإضافتها بالتمرين السابق| 12 |
-
+|[LCD I2C](https://wokwi.com/projects/374927791194166273)|54|  محاكاة عمل الشاشة في وكوي |-| 13 |
 
 
