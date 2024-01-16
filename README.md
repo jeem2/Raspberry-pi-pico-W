@@ -27,3 +27,5 @@
 |[PIR](https://wokwi.com/projects/385001325752570881)|46|  محاكاة لإنشاء إنذار استشعار الحركة في وكوي |-| 10 |
 |[Seven Segment-TM1637](https://wokwi.com/projects/371661010977828865)|50|  محاكاة التحكم في بدء وإيقاف عداد الوقت  في وكوي |-| 11 |
 |[Seven Segment-TM1637](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%203/Timer%20(control%20of%20start%20and%20stop%20time)11.py)|50|  الكود البرمجي للتحكم في بدء وإيقاف عداد الوقت |-| 11 |
+|[Servo+TM1637+Potentiometer](https://wokwi.com/projects/385001739811139585)|52|  محاكاة قراءة قيمة المستشعر وتحويلها إلى قيمة بحيث يمكن استخدامها من خلال المقاومة المتغيرة لتحريك المحرك في وكوي |-| 12 |
+
