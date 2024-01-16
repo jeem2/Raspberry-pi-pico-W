@@ -37,4 +37,5 @@
 |[SSD1306_I2C](https://github.com/stlehmann/micropython-ssd1306/blob/master/ssd1306.py)|57| SSD1306 مكتبة  |-| 14 |
 |[RBPi picoW With Oled0.96](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%204/Pi%20Pico%20W%20with%20OLED%200.96%20display14.py)|57| الكود البرمجي الخاص بالتمرين | يجب تضمين المكتبة السابقة قبل تشغيل هذا الكود | 14 |
 |[LCD With Ultrasonic](https://wokwi.com/projects/374841369162964993)|59|  محاكاة عرض بعد الاجسام عن حساس المسافة على الشاشة في وكوي |-| 15 |
+|[LCD With Ultrasonic](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%204/Using%20the%20Ultrasonic%20distance%20sensor%2015.py)|59|  الكود البرمجي الخاص بالتمرين |يجب اضافة نفس المكتبات التي قمنا بتضمينها في التمرين13| 15 |
 
