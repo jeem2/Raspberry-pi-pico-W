@@ -32,5 +32,6 @@
 |[LCD I2C](https://wokwi.com/projects/374927791194166273)|54|  محاكاة عمل الشاشة في وكوي |-| 13 |
 |[LCD_API](https://raw.githubusercontent.com/dhylands/python_lcd/master/lcd/lcd_api.py)|54|   LCD_APIمكتبة  |-|  13   |
 |[I2C LCD](https://raw.githubusercontent.com/T-622/RPI-PICO-I2C-LCD/main/pico_i2c_lcd.py)|54|  I2C LCD مكتبة  |-|  13   |
+|[Pi Pico W with LCD display](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%204/Pi%20Pico%20W%20with%20LCD%20display13.py)|54|  main-LCD الكود البرمجي الخاص بالتمرين  |يجب تحميل المكتبتين السابقتين وتضمينهما قبل تشغيل هذا الكود|  13   |
 
 
