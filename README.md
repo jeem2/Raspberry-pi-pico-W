@@ -18,3 +18,4 @@
 |[Buzzer](https://wokwi.com/projects/374374148904194049)|34|  محاكاة إصدار الصوت التقليدي للبازر في وكوي|-| 5 |
 |[Buzzer](https://wokwi.com/projects/384998379113344001)|35|  محاكاة إصدار نغمة موسيقية باستخدام البازر في وكوي|-| 6 |
 |[Buzzer](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%202/Make%20a%20musical%20note%20sound6.py)|35|  الكود البرمجي لإصدار نغمة موسيقية باستخدام البازر|-| 6 |
+|[Servo](https://wokwi.com/projects/385000221695302657)|37|  محاكاة التحكم بسرعة واتجاه دوران محرك سيرفو ر في وكوي|-| 7 |
