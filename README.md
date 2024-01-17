@@ -1,5 +1,8 @@
 # Raspberry Pi Pico W
-# مرحباً بك في متحكم Raspberry Pi Pico W
+<p align="center">
+ <img width="230px" src="https://projects-static.raspberrypi.org/projects/getting-started-with-the-pico/725a421f3b51a5674c539d6953db5f1892509475/en/images/banner.png" align="left" alt="GitHub Readme Stats" />
+ <h2 align="center">مرحباً بك في متحكم Raspberry Pi Pico W</h2>
+</p>
 
 
 
