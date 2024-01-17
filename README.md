@@ -25,6 +25,8 @@
 |[Servo](https://wokwi.com/projects/385000221695302657)|37|  محاكاة التحكم بسرعة واتجاه دوران محرك سيرفو في وكوي|-| 7 |
 |[Servo.py](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%202/Servo%20motor%20control%20using%20Pi%20Pico%20W%207.py)|37|  مكتبة سيرفو للتحكم بمحرك السيرفو ووظائفه|-| 7 |
 |[Servo.main](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%202/servo%20main7.py)|37|  الكود البرمجي للتحكم بمحرك السيرفو |-| 7 |
+## تمارين الباب الثالث :
+|-|:-:|-|:-:|:-:| 
 |[Potentiometer](https://wokwi.com/projects/375666580739332097)|41|  محاكاة التحكم بقيمة مقاومة متغيرة في وكوي|-| 8 |
 |[keypad](https://wokwi.com/projects/385727868398869505)|43|  محاكاة بعرض قيم الكيباد التي يتم الضغط عليها في وكوي |-| 9 |
 |[keypad](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%203/Connecting%20the%20keypad%20to%20the%20Pico%20W9.py)|43|  الكود البرمجي لعرض قيم الكيباد التي يتم الضغط عليها |-|  9|
