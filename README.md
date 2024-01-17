@@ -62,3 +62,6 @@
 |[RBPi picoW With NeoPixel Stick \ POTs3 ble_simple_central.py ](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%205/POTs3%20ble_simple_central.py18.py)|66|  القسم الثاني للكود البرمجي POTs3 ble_simple_central.py|هذا الكود لتشغيل متحكم رازبيريباي بيكو الاول مع توصيل المقاومات المتغيرة  | 18 |
 |[RBPi picoW With NeoPixel Stick \ NeoPixel ble_simple peripheral.py  ](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%205/NeoPixel%20ble_simple%20peripheral.py18.py)|66|  القسم الثالث للكود البرمجي NeoPixel ble_simple peripheral.py | الكود لتشغيل متحكم رازبيريباي بيكو الثاني Neopixelمع شريط  | 18 |
 
+## تمارين الباب السادس : تشغيل تقنية Wifi على RBPi picoW 
+|التمرين|الصفحة|وصف التمرين|ملاحظات|رقم التمرين|
+|-|:-:|-|:-:|:-:| 
