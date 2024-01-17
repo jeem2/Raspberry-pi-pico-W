@@ -65,4 +65,4 @@
 ## تمارين الباب السادس : تشغيل تقنية Wifi على RBPi picoW 
 |التمرين|الصفحة|وصف التمرين|ملاحظات|رقم التمرين|
 |-|:-:|-|:-:|:-:| 
-|[ Pi Pico W Web Server](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%206/main.py19.py)|70|  الكود البرمجي الخاص بالتمرين main.py19|قم بتغيير          WiFi SSID وكلمة المرور في السطر 10 من الكود البرمجي.| 19 |
+|[ Pi Pico W Web Server](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%206/main.py19.py)|70|  الكود البرمجي الخاص بالتمرين main.py19|قم بتغيير  وكلمة المرور في السطر 10 من الكود البرمجي.| 19 WiFi SSID |
