@@ -66,5 +66,5 @@
 |التمرين|الصفحة|وصف التمرين|ملاحظات|رقم التمرين|
 |-|:-:|-|:-:|:-:| 
 |[ Pi Pico W Web Server](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%206/main.py19.py)|70|  الكود البرمجي الخاص بالتمرين main.py19|قم بتغيير اسم المستخدم وكلمة المرور في السطر 10 من الكود البرمجي.| 19  |
-|[Weather Station With RBPi picoW](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%206/bme280.py20.py)|73| BME280المكتبة التي تقوم بقراءة القيم من مستشعر  |- | 20 |
+|[Weather Station With RBPi picoW](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%206/bme280.py20.py)|73|  مستشعر  |- | 20 مكتبة BME280|
 
