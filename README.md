@@ -1,6 +1,6 @@
 # Raspberry Pi Pico W
 <p align="center">
- <img width="230px" src="https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/14a3264ce32c2b11bf0241c3cd3251b1/large.png" align="left" alt="GitHub Readme Stats" />
+ <img width="230px" src="https://zbotic.in/wp-content/uploads/2022/10/Raspberry-Pi-Pico-W.jpg" align="left" alt="GitHub Readme Stats" />
  <h2 align="center">مرحباً بك في متحكم Raspberry Pi Pico W</h2>
 </p>
 
