@@ -57,6 +57,6 @@
 |التمرين|الصفحة|وصف التمرين|ملاحظات|رقم التمرين|
 |-|:-:|-|:-:|:-:| 
 |[RBPi picoW With Bluetooth \ ble_advertising.py ](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%205/ble_advertising.py17.py)|64|  القسم الاول للكود البرمجي ble_advertising.py|الكود البرمجي الخاص بهذا التمرين ينقسم إلى قسمين | 17 |
-
+|[RBPi picoW With Bluetooth \ main.py ](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%205/main.py17.py)|64|  القسم الثاني للكود البرمجي main.py|- | 17 |
 
 
