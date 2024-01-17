@@ -68,5 +68,5 @@
 |[ Pi Pico W Web Server](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%206/main.py19.py)|70|  الكود البرمجي الخاص بالتمرين main.py19|قم بتغيير اسم المستخدم وكلمة المرور في السطر 10 من الكود البرمجي| 19  |
 |[Weather Station With RBPi picoW](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%206/bme280.py20.py)|73|   BME280مكتبة حساس   |ينقسم الكود البرمجي إلى قسمين : الأول هو مكتبة الحساس  | 20 |
 |[Weather Station With RBPi picoW\main.py](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%206/main.py20.py)|73|  الكود الثاني : كود إنشاء محطة الطقس لخادم الويب |قم بتغيير اسم المستخدم وكلمة المرور في السطر 10 من الكود البرمجي|  20 |
-|[Pi Pico W With Blynk ](https://wokwi.com/projects/374841369162964993)|76|  مكتبة بلينك التي توفر واجهة برمجة التطبيقات  |-| 21 |
+|[Pi Pico W With Blynk ](https://wokwi.com/projects/374841369162964993)|76|  مكتبة بلينك التي توفر واجهة برمجة التطبيقات  |ينقسم الكود البرمجي إلى قسمين : الأول هو مكتبة بلينك| 21 |
 
