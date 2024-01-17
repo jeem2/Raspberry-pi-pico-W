@@ -12,7 +12,7 @@
 
 
 ## روابط التمارين التطبيقية في الكتاب :
-## تمارين الباب الثاني : 
+## تمارين الباب الثاني : : التمارين الأساسية على متحكم  RBPi picoW
 |التمرين|الصفحة|وصف التمرين|ملاحظات|رقم التمرين|
 |-|:-:|-|:-:|:-:| 
 |[Blinking-LED](https://wokwi.com/projects/371047992398738433)| 26  | تشغيل و إطفاء ليد في وكوي بتواتر زمني معين يمكن تغيره |-|1|
@@ -25,7 +25,7 @@
 |[Servo](https://wokwi.com/projects/385000221695302657)|37|  محاكاة التحكم بسرعة واتجاه دوران محرك سيرفو في وكوي|-| 7 |
 |[Servo.py](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%202/Servo%20motor%20control%20using%20Pi%20Pico%20W%207.py)|37|  مكتبة سيرفو للتحكم بمحرك السيرفو ووظائفه|-| 7 |
 |[Servo.main](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%202/servo%20main7.py)|37|  الكود البرمجي للتحكم بمحرك السيرفو |-| 7 |
-## تمارين الباب الثالث :
+## تمارين الباب الثالث : تمارين إدخال الإشارات للـ RBPi picoW 
 |التمرين|الصفحة|وصف التمرين|ملاحظات|رقم التمرين|
 |-|:-:|-|:-:|:-:| 
 |[Potentiometer](https://wokwi.com/projects/375666580739332097)|41|  محاكاة التحكم بقيمة مقاومة متغيرة في وكوي|-| 8 |
@@ -33,7 +33,7 @@
 |[keypad](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%203/Connecting%20the%20keypad%20to%20the%20Pico%20W9.py)|43|  الكود البرمجي لعرض قيم الكيباد التي يتم الضغط عليها |-|  9|
 |[PIR](https://wokwi.com/projects/385001325752570881)|46|  محاكاة لإنشاء إنذار استشعار الحركة في وكوي |-| 10 |
 
-## تمارين الباب الرابع :
+## تمارين الباب الرابع : تشغيل الشاشات مع RBPi picoW 
 |التمرين|الصفحة|وصف التمرين|ملاحظات|رقم التمرين|
 |-|:-:|-|:-:|:-:| 
 |[Seven Segment-TM1637](https://wokwi.com/projects/371661010977828865)|50|  محاكاة التحكم في بدء وإيقاف عداد الوقت  في وكوي |-| 11 |
@@ -52,6 +52,10 @@
 |[DHT22 ](https://github.com/alantang888/pico-dht22-micropython-lib)|60|   DHT22مكتبة    |-|  16   |
 |[DHT22 sensor with an LCD screen](https://wokwi.com/projects/376050358101012481)|60|  محاكاة عمل التمرين في وكوي |-| 16 |
 |[DHT22 sensor with an LCD screen](https://github.com/jeem2/Raspberry-pi-pico-W/blob/master/codes/section%204/Using%20a%20DHT22%20sensor%20with%20an%20LCD%20screen16.py)|60|  الكود البرمجي الخاص بالتمرين |يجب تضمين المكتبة السابقة الخاصة بالحساس قبل محاكاة التمرين بالاضافة الى مكتبات التمرين 13| 16 |
+
+## تمارين الباب الخامس : تشغيل البلوتوث مع متحكم  RBPi picoW
+|التمرين|الصفحة|وصف التمرين|ملاحظات|رقم التمرين|
+|-|:-:|-|:-:|:-:| 
 
 
 
